@@ -7,7 +7,7 @@ sites:
     url: https://mytok.eu/.well-known/mytoken-configuration
     maxResponseTime: 5000
   - name: mytoken.data.kit.edu
-    url: https://mytoken.data.kit.edu/.well-known/mytoken-configuration
+    url: https://mytoken.data.kit.edu/healthcheck/
     maxResponseTime: 5000
 assignees:
   - zachmann
