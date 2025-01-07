@@ -1,7 +1,7 @@
 [
   {
     "name": "mytok.eu",
-    "url": "https://mytok.eu",
+    "url": "https://mytok.eu/.well-known/mytoken-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/mytok.eu.ico",
     "slug": "mytok-eu",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1415,
-    "timeDay": 1415,
-    "timeWeek": 1415,
-    "timeMonth": 1415,
-    "timeYear": 1415,
+    "time": 1185,
+    "timeDay": 1185,
+    "timeWeek": 1185,
+    "timeMonth": 1185,
+    "timeYear": 1185,
     "dailyMinutesDown": {}
   },
   {
     "name": "mytoken.data.kit.edu",
-    "url": "https://mytoken.data.kit.edu",
+    "url": "https://mytoken.data.kit.edu/.well-known/mytoken-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/mytoken.data.kit.edu.ico",
     "slug": "mytoken-data-kit-edu",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1178,
-    "timeDay": 1178,
-    "timeWeek": 1178,
-    "timeMonth": 1178,
-    "timeYear": 1178,
+    "time": 1060,
+    "timeDay": 1060,
+    "timeWeek": 1060,
+    "timeMonth": 1060,
+    "timeYear": 1060,
     "dailyMinutesDown": {}
   }
 ]
