@@ -22,17 +22,19 @@
     "url": "https://mytoken.data.kit.edu/healthcheck/",
     "icon": "https://icons.duckduckgo.com/ip3/mytoken.data.kit.edu.ico",
     "slug": "mytoken-data-kit-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 887,
-    "timeWeek": 781,
-    "timeMonth": 723,
-    "timeYear": 752,
-    "dailyMinutesDown": {}
+    "time": 748,
+    "timeDay": 700,
+    "timeWeek": 748,
+    "timeMonth": 716,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2025-03-03": 0
+    }
   }
 ]
