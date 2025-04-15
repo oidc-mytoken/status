@@ -1,7 +1,7 @@
 url: https://mytok.eu/.well-known/mytoken-configuration
-status: degraded
+status: down
 code: 503
-responseTime: 12247
-lastUpdated: 2025-04-15T05:40:49.179Z
+responseTime: 455
+lastUpdated: 2025-04-15T05:46:27.940Z
 startTime: 2025-01-07T09:27:19.022Z
 generator: Upptime <https://github.com/upptime/upptime>
