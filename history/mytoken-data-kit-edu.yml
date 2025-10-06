@@ -1,7 +1,7 @@
 url: https://mytoken.data.kit.edu/healthcheck/
-status: up
+status: degraded
 code: 200
-responseTime: 887
-lastUpdated: 2025-10-05T23:18:31.300Z
+responseTime: 19776
+lastUpdated: 2025-10-06T15:56:38.965Z
 startTime: 2025-01-07T09:27:21.910Z
 generator: Upptime <https://github.com/upptime/upptime>
