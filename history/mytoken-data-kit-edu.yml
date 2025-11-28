@@ -1,7 +1,7 @@
 url: https://mytoken.data.kit.edu/healthcheck/
-status: down
-code: 502
-responseTime: 901
-lastUpdated: 2025-11-27T23:52:57.567Z
+status: up
+code: 200
+responseTime: 527
+lastUpdated: 2025-11-28T08:43:05.737Z
 startTime: 2025-01-07T09:27:21.910Z
 generator: Upptime <https://github.com/upptime/upptime>
