@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 941,
-    "timeDay": 413,
-    "timeWeek": 692,
-    "timeMonth": 763,
+    "timeDay": 551,
+    "timeWeek": 685,
+    "timeMonth": 759,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-09-08": 263,
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mytoken.data.kit.edu.ico",
     "slug": "mytoken-data-kit-edu",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.66%",
+    "uptime": "99.62%",
+    "uptimeDay": "87.13%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "99.62%",
     "time": 735,
-    "timeDay": 537,
-    "timeWeek": 581,
-    "timeMonth": 635,
-    "timeYear": 750,
+    "timeDay": 411,
+    "timeWeek": 576,
+    "timeMonth": 622,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2025-05-31": 17,
       "2025-09-08": 317,
@@ -49,7 +49,8 @@
       "2026-05-02": 37,
       "2026-05-17": 435,
       "2026-05-16": 33,
-      "2026-05-28": 0
+      "2026-05-29": 112,
+      "2026-05-28": 74
     }
   }
 ]
