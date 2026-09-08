@@ -13,10 +13,9 @@
     "time": 801,
     "timeDay": 676,
     "timeWeek": 771,
-    "timeMonth": 799,
+    "timeMonth": 801,
     "timeYear": 863,
     "dailyMinutesDown": {
-      "2025-09-08": 263,
       "2026-03-24": 60,
       "2026-07-05": 69,
       "2026-07-13": 470,
@@ -29,19 +28,18 @@
     "url": "https://mytoken.data.kit.edu/healthcheck/",
     "icon": "https://icons.duckduckgo.com/ip3/mytoken.data.kit.edu.ico",
     "slug": "mytoken-data-kit-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.52%",
     "time": 727,
-    "timeDay": 813,
-    "timeWeek": 729,
-    "timeMonth": 649,
-    "timeYear": 733,
+    "timeDay": 555,
+    "timeWeek": 675,
+    "timeMonth": 628,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2025-09-08": 317,
       "2025-11-09": 17,
       "2025-11-23": 190,
       "2025-11-22": 48,
@@ -53,7 +51,8 @@
       "2026-05-16": 33,
       "2026-05-29": 581,
       "2026-05-28": 74,
-      "2026-08-25": 217
+      "2026-08-25": 217,
+      "2026-09-08": 0
     }
   }
 ]
