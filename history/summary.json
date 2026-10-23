@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mytok.eu.ico",
     "slug": "mytok-eu",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 428,
     "timeWeek": 816,
     "timeMonth": 748,
-    "timeYear": 809,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2026-03-24": 60,
       "2026-07-05": 69,
@@ -28,16 +28,16 @@
     "url": "https://mytoken.data.kit.edu/healthcheck/",
     "icon": "https://icons.duckduckgo.com/ip3/mytoken.data.kit.edu.ico",
     "slug": "mytoken-data-kit-edu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 727,
-    "timeDay": 550,
-    "timeWeek": 654,
-    "timeMonth": 723,
+    "timeDay": 503,
+    "timeWeek": 629,
+    "timeMonth": 714,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2025-11-09": 17,
@@ -52,7 +52,8 @@
       "2026-05-29": 581,
       "2026-05-28": 74,
       "2026-08-25": 217,
-      "2026-09-08": 526
+      "2026-09-08": 526,
+      "2026-10-23": 0
     }
   }
 ]
